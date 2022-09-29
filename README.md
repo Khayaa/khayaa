@@ -15,8 +15,8 @@
 
 - 🌱 I’m currently learning **Flutter and AI & Machine Learning**
 - 👨‍💻 All of my projects are available at [https://linktr.ee/Khayangwenya](https://linktr.ee/Khayangwenya)
-
-- 💬 Ask me about **Php ,Laravel , Livewire and Alpine .**
+- 👨‍💻 Best Framework  **Laravel**
+- 💬 Ask me about **Php , Java ,Laravel , Livewire and Alpine .**
 
 - 📫 How to reach me **khaya.developer@gmail.com**
 
