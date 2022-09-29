@@ -18,13 +18,12 @@
 - 👨‍💻 Best PHP Framework  **Laravel**
 - 💬 Ask me about **(Php & Java),(Laravel , Livewire and Alpine ).**
 -  **My Projects**
-➡[Universityqualifications](https://universityqualifications.co.za)
+[Universityqualifications](https://universityqualifications.co.za)
 **Made with :**
 *Php (Laravel) ,Livewire, Alpine Js , Bootstrap ,MySQL  & deployed using Laravel Forge .
-➡[Universityqualifications Online Shop](https://letsapply4u.universityqualifications.co.za)
+[Universityqualifications Online Shop](https://letsapply4u.universityqualifications.co.za)
 -  *with Multi user authentication, payment gateaway(Paystack)
--  ***Made with :***
--   *Php (Laravel) ,Livewire, Alpine Js , Tailwind ,MySQL  & deployed using Laravel Forge .
+-  ***Made with :***Php (Laravel) ,Livewire, Alpine Js , Tailwind ,MySQL  & deployed using Laravel Forge .
   
   
 - 📫 How to reach me **khaya.developer@gmail.com**
