@@ -13,14 +13,24 @@
 
 - 🔭 I’m currently working on [Universityqualifications Mobile App](https://universityqualifications.co.za/mobile-app)
 
-- 🌱 I’m currently learning **Flutter and AI & Machine Learning**
+- 🌱 I’m currently learning **Flutter , AI & Machine Learning**
 - 👨‍💻 All of my projects are available at [https://linktr.ee/Khayangwenya](https://linktr.ee/Khayangwenya)
-- 👨‍💻 Best Framework  **Laravel**
-- 💬 Ask me about **Php , Java ,Laravel , Livewire and Alpine .**
-
+- 👨‍💻 Best PHP Framework  **Laravel**
+- 💬 Ask me about **(Php & Java),(Laravel , Livewire and Alpine ).**
+-  My Projects
+ ➡[Universityqualifications](https://universityqualifications.co.za)
+  **Made with :**
+  *Php (Laravel) ,Livewire, Alpine Js , Bootstrap ,MySQL  & deployed using Laravel Forge .
+  
+ ➡[Universityqualifications Online Shop](https://letsapply4u.universityqualifications.co.za)
+  *with Multi user authentication, payment gateaway(Paystack)
+  ***Made with :***
+  *Php (Laravel) ,Livewire, Alpine Js , Tailwind ,MySQL  & deployed using Laravel Forge .
+  
+  
 - 📫 How to reach me **khaya.developer@gmail.com**
 
-- ⚡ Fun fact **Obessed with writing Code!**
+- ⚡ Fun fact **Livewire is 🔥!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
