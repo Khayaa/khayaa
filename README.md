@@ -11,7 +11,7 @@
 <p align="left"> <a href="https://twitter.com/mk_ngwenya" target="blank"><img src="https://img.shields.io/twitter/follow/mk_ngwenya?logo=twitter&style=for-the-badge" alt="mk_ngwenya" /></a> </p>
 
 
-- 🔭 I’m currently working on [Universityqualifications Mobile App](https://universityqualifications.co.za/mobile-app)
+- 🔭 I’m currently working on [Revolutionary School ](https://revolutionary.co.za/)
 - 💻 I always Love to learn new things
 - 🌱 I’m currently learning **Flutter , AI & Machine Learning**
 - 👨‍💻 Best PHP Framework  **Laravel**
@@ -20,7 +20,7 @@
 [Universityqualifications](https://universityqualifications.co.za)
 **Made with :
 Php (Laravel) ,Livewire, Alpine Js , Bootstrap ,MySQL , Rest-Api  & deployed using Laravel Forge .**
-[Universityqualifications Online Shop](https://letsapply4u.universityqualifications.co.za) **Made with :Php (Laravel) ,Livewire, Alpine Js , Tailwind , Rest-Api ,MySQL , intergrated with Payment Gateway(Paystack) & deployed using Laravel Forge .** ,  [Mobile App](https://play.google.com/store/apps/details?id=com.universityqualifications.mobileapp)**Made with Flutter**
+[Universityqualifications Online Shop](https://letsapply4u.universityqualifications.co.za) **Made with :Php (Laravel) ,Livewire, Alpine Js , Tailwind , Rest-Api ,MySQL , intergrated with Payment Gateway(Paystack) & deployed using Laravel Forge ** ,  [Mobile App](https://play.google.com/store/apps/details?id=com.universityqualifications.mobileapp) **Made with : Flutter**
 , with **Uniqualify** ( [Dr Wilson Dental Care](https://drwilsondentalcare.com/) , [Uniqualify User Authentication ](https://uniqualify.co.za))
 - 📫 How to reach me **khaya.developer@gmail.com**
 - [https://linktr.ee/Khayangwenya](https://linktr.ee/Khayangwenya)
