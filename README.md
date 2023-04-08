@@ -17,10 +17,11 @@
 - 👨‍💻 Best PHP Framework  **Laravel**
 - 💬 Ask me about **(Php & Java),(Laravel , Livewire and Alpine ).**
 <h4 align="left">My Projects</h4>
--[Universityqualifications ](https://universityqualifications.co.za)
+- [Universityqualifications ](https://universityqualifications.co.za)
 **Made with : Php (Laravel) ,Livewire, Alpine Js , Bootstrap ,MySQL , Rest-Api  & deployed using Laravel Forge .**
 <p align="left">
-- [Universityqualifications Online Shop ](https://letsapply4u.universityqualifications.co.za) **Made with :Php (Laravel) ,Livewire, Alpine Js , Tailwind , Rest-Api ,MySQL , intergrated with Payment Gateway(Paystack) & deployed using Laravel Forge ** 
+  - 🔭 I’m currently working on [Revolutionary School ](https://revolutionary.co.za/) & [Adventist Mingle](https://adventistmingle.co.za)
+  - [Universityqualifications Online Shop ](https://letsapply4u.universityqualifications.co.za) **Made with :Php (Laravel) ,Livewire, Alpine Js , Tailwind , Rest-Api ,MySQL , intergrated with Payment Gateway(Paystack) & deployed using Laravel Forge ** 
   <p align="left">
   -[Mobile App](https://play.google.com/store/apps/details?id=com.universityqualifications.mobileapp) **Made with : Flutter**
 , with **Uniqualify** ( [Dr Wilson Dental Care](https://drwilsondentalcare.com/) , [Uniqualify User Authentication ](https://uniqualify.co.za))
