@@ -16,8 +16,7 @@
 - 🌱 I’m currently learning **Flutter , AI & Machine Learning**
 - 👨‍💻 Best PHP Framework  **Laravel**
 - 💬 Ask me about **(Php & Java),(Laravel , Livewire and Alpine ).**
-<h4 align="left">My Projects</h4>
-<p align="left">
+
   - [Universityqualifications ](https://universityqualifications.co.za)
 **Made with : Php (Laravel) ,Livewire, Alpine Js , Bootstrap ,MySQL , Rest-Api  & deployed using Laravel Forge .**
   </p>
