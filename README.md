@@ -24,8 +24,9 @@
   - [Universityqualifications Online Shop ](https://letsapply4u.universityqualifications.co.za) **Made with :Php (Laravel) ,Livewire, Alpine Js , Tailwind , Rest-Api ,MySQL , intergrated with Payment Gateway(Paystack) & deployed using Laravel Forge ** 
   - [Mobile App](https://play.google.com/store/apps/details?id=com.universityqualifications.mobileapp) **Made with : Flutter & Dart**
   - with **Uniqualify** ( [Dr Wilson Dental Care](https://drwilsondentalcare.com/) , [Uniqualify User & Admin Authentication System ](https://uniqualify.co.za)) , [Student Registration  System Demo ](https://lms-demo.uniqualify.co.za/)) 
+  - [Amile Amazulu Foundation ](https://revolutionary.co.za)
   - [Revolutionary.co,za ](https://revolutionary.co.za)
-  - [News Demo Project. ](https://news-project-demo.news-demorevolutionary.co.za)
+  - [News Demo Project. ](https://news-project-demo.revolutionary.co.za)
 - 📫 How to reach me **khaya.developer@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
