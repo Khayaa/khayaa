@@ -16,14 +16,13 @@
 - 🌱 I’m currently learning **Flutter , AI & Machine Learning**
 - 👨‍💻 Best PHP Framework  **Laravel**
 - 💬 Ask me about **(Php & Java),(Laravel , Livewire and Alpine ).**
+- ⚡ Fun fact **Livewire is 🔥!**
 
 
   - [Universityqualifications ](https://universityqualifications.co.za)
 **Made with : Php (Laravel) ,Livewire, Alpine Js , Bootstrap ,MySQL , Rest-Api  & deployed using Laravel Forge .**
   - [Universityqualifications Online Shop ](https://letsapply4u.universityqualifications.co.za) **Made with :Php (Laravel) ,Livewire, Alpine Js , Tailwind , Rest-Api ,MySQL , intergrated with Payment Gateway(Paystack) & deployed using Laravel Forge ** 
-
-- ⚡ Fun fact **Livewire is 🔥!**
-- ⚡ Fun fact **Livewire is 🔥!**
+-[Mobile App](https://play.google.com/store/apps/details?id=com.universityqualifications.mobileapp) **Made with : Flutter**
 - 📫 How to reach me **khaya.developer@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
