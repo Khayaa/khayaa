@@ -21,17 +21,10 @@
   - [Universityqualifications ](https://universityqualifications.co.za)
 **Made with : Php (Laravel) ,Livewire, Alpine Js , Bootstrap ,MySQL , Rest-Api  & deployed using Laravel Forge .**
   </p>
-<p align="left">
-  - [Universityqualifications Online Shop ](https://letsapply4u.universityqualifications.co.za) **Made with :Php (Laravel) ,Livewire, Alpine Js , Tailwind , Rest-Api ,MySQL , intergrated with Payment Gateway(Paystack) & deployed using Laravel Forge ** </p>
-  <p align="left">
-  -[Mobile App](https://play.google.com/store/apps/details?id=com.universityqualifications.mobileapp) **Made with : Flutter**</p>
-  <p align="left">  
-, with **Uniqualify** ( [Dr Wilson Dental Care](https://drwilsondentalcare.com/) , [Uniqualify User Authentication ](https://uniqualify.co.za))</p>
-- 📫 How to reach me **khaya.developer@gmail.com**
-- [https://linktr.ee/Khayangwenya](https://linktr.ee/Khayangwenya)
-
-
+<p align="left"></p>
 - ⚡ Fun fact **Livewire is 🔥!**
+- ⚡ Fun fact **Livewire is 🔥!**
+- 📫 How to reach me **khaya.developer@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
