@@ -13,22 +13,21 @@
 
 
 - 💻 I always Love to learn new things
-- 🌱 I’m currently learning **Flutter , AI & Machine Learning**
+- 🌱 I’m currently learning ** AI & Machine Learning**
 - 👨‍💻 Best PHP Framework  **Laravel**
 - 💬 Ask me about **(Php & Java),(Laravel , Livewire and Alpine ).**
 - ⚡ Fun fact **Livewire is 🔥!**
 
 
   - [Universityqualifications ](https://universityqualifications.co.za)
-**Made with : Php (Laravel) ,Livewire, Alpine Js , Bootstrap ,MySQL , Rest-Api  & deployed using Laravel Forge .**
-  - [Universityqualifications Online Shop ](https://letsapply4u.universityqualifications.co.za) **Made with :Php (Laravel) ,Livewire, Alpine Js , Tailwind , Rest-Api ,MySQL , intergrated with Payment Gateway(Paystack) & deployed using Laravel Forge ** 
-  - [Mobile App](https://play.google.com/store/apps/details?id=com.universityqualifications.mobileapp) **Made with : Flutter & Dart**
-  - [University Qualifications Whatsapp ChatBot](https://api.whatsapp.com/send/?phone=27795757645&text=Hi+there) ** WhatsApp Api + Laravel Api **
+  - [Universityqualifications Online Shop ](https://letsapply4u.universityqualifications.co.za) 
+  - [Mobile App](https://play.google.com/store/apps/details?id=com.universityqualifications.mobileapp) 
+  - [University Qualifications Whatsapp ChatBot](https://api.whatsapp.com/send/?phone=27795757645&text=Hi+there) 
   - [Amile Amazulu Foundation ](https://amileamazulufoundation.org.za)
   - [Revolutionary.co.za ](https://revolutionary.co.za)
   - [News Demo Project. ](https://news-project-demo.revolutionary.co.za)
   - [Adventist Mingle](https://adventistmingle.co.za)
-  - with **Uniqualify** ( [Dr Wilson Dental Care](https://drwilsondentalcare.com/) , [Uniqualify User & Admin Authentication System ](https://uniqualify.co.za)) , [Student Registration  System Demo ](https://lms-demo.uniqualify.co.za/)) 
+  - with **Uniqualify** ( [Uniqualify User & Admin Authentication System ](https://uniqualify.co.za)) , [Student Registration  System Demo ](https://lms-demo.uniqualify.co.za/)) 
 - 📫 How to reach me **khaya.developer@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
