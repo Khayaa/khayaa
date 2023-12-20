@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning **AI & Machine Learning**.
 - 👨‍💻 Best PHP Framework: **Laravel**.
 - 📱 Enthusiast in mobile app development with **Flutter**.
-- 💬 Ask me about **Fullstack development**, especially with **PHP, Laravel, JavaScript, Livewire, Alpine.js, Tailwind CSS, Bootstrap**, and **Flutter**. Also, feel free to discuss **building web and mobile apps**, **UniversityQualifications app**, or **web development for non-profits**.
+- 💬 Ask me about **Fullstack development**
 - ⚡ Fun fact: **Livewire is 🔥!**
 - 💡 Eager to share knowledge about **coding and teaching programming skills**.
 - 🤖 Fun Binary: 01001110 01100101 01110010 01100100 (Nerd)
@@ -28,14 +28,13 @@ Here are some of the exciting projects I've worked on:
 
 - **Universityqualifications**: An innovative platform for students to calculate their APS scores and find suitable courses. [Visit Site](https://universityqualifications.co.za)
 - **Universityqualifications Online Shop**: An online store associated with Universityqualifications. [Shop Here](https://letsapply4u.universityqualifications.co.za)
-- **UniMobile App**: A mobile application to enhance the Universityqualifications experience. [Get it on Google Play](https://play.google.com/store/apps/details?id=com.universityqualifications.mobileapp)
-- **University Qualifications Whatsapp ChatBot**: An interactive ChatBot for instant communication. [Start Chatting](https://api.whatsapp.com/send/?phone=27795757645&text=Hi+there)
+- **University Qualifications Mobile App**: A mobile application for University Qualifications. [Get it on Google Play](https://play.google.com/store/apps/details?id=com.universityqualifications.mobileapp)
+- **University Qualifications Whatsapp ChatBot**: The ChatBot is not just about APS calculations. You can also explore a wide range of university courses based on your APS. Whether you're interested in Engineering, Medicine, or Arts, the ChatBot has the perfect courses waiting for you. [Start Chatting](https://api.whatsapp.com/send/?phone=27795757645&text=Hi+there)
 - **Amile Amazulu Foundation**: A website dedicated to the non-profit organization. [Learn More](https://amileamazulufoundation.org.za)
-- **Revolutionary.co.za**: A project showcasing my web development skills. [Explore](https://revolutionary.co.za)
-- **News Demo Project**: A demonstration of my capabilities in news portal development. [View Demo](https://news-project-demo.revolutionary.co.za)
+- **Revolutionary.co.za**: a platform that offers high-quality courses designed to help you achieve your goals, no matter where you are or what you're interested in. [Explore](https://revolutionary.co.za)
+- **News Demo Project**: A   news portal demonstration. [View Demo](https://news-project-demo.khaya.dev)
 - **Adventist Mingle**: A niche dating site for Adventist singles. [Find Love](https://adventistmingle.co.za)
-- **Uniqualify User & Admin Authentication System**: A robust authentication system for user and admin. [Check it Out](https://uniqualify.co.za)
-- **Student Registration System Demo**: A demo for a comprehensive student registration system. [See Demo](https://lms-demo.uniqualify.co.za/)
+- **Student Registration System Demo**: A demo for a comprehensive student registration and learning Management system. [See Demo](https://lms-demo.khaya.dev)
 
 - 📫 How to reach me **khaya.developer@gmail.com**
 
