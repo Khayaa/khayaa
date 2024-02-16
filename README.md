@@ -2,7 +2,7 @@
 
 ![MasterHead](https://miro.medium.com/max/1400/1*zlmwtg3fog11YXcU_rvfWA.gif)
 <h1 align="center">Hi 👋, I'm Khaya Ngwenya</h1>
-<h5 align="center">⌨️ Fullstack developer with a passion for writing elegant code and solving real-world problems. 🚀 Industry experience building web and mobile apps using PHP, Laravel, JS, livewire, Alpine.js, Tailwind CSS & Bootstrap. Flutter fanboy too! 💡 Recently built a UniversityQualifications app to help students calculate their APS scores and find the perfect course. 🔧 Proven experience building websites for non-profits, giving back to the community. 💻 When I'm not coding, you'll find me teaching eager learners how to code like a pro. 01001110 01100101 01110010 01100100 🤓</h5>
+<h5 align="center">⌨️ Fullstack developer with a passion for writing elegant code and solving real-world problems. 🚀 Industry experience building web and mobile apps using PHP, Laravel, JS, livewire, Alpine.js, Tailwind CSS & Bootstrap. Flutter fanboy too! 🏆 Proud recipient of the MTN App of the Year Award for Best Breakthrough Developer, a testament to my dedication to innovative solutions and excellence in technology. 💡 Recently built a UniversityQualifications app to help students calculate their APS scores and find the perfect course. 🔧 Proven experience building websites for non-profits, giving back to the community. 💻 When I'm not coding, you'll find me teaching eager learners how to code like a pro. 01001110 01100101 01110010 01100100 🤓</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khayaa&label=Profile%20views&color=0e75b6&style=flat" alt="khayaa" /> </p>
 
