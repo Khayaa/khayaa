@@ -31,10 +31,8 @@ Here are some of the exciting projects I've worked on:
 - **Taxi Maths Calculator Mobile App**:The smart and easy way to manage taxi fares, calculate change, and make sure everyone pays the right amount! . [Get it on Google Play , Play store & App Gallery](https://taximathscalculator.co.za/)
 - **Admission Advisor ChatBot**:A state-of-the-art ChatBot crafted to simplify the university admissions process in South Africa. Whether you need help with APS calculations or course requirements, this tool is equipped to provide answers from various South African universities. [Visit](https://chatbot.universityqualifications.co.za)
 - **University Qualifications Whatsapp ChatBot**: The ChatBot is not just about APS calculations. You can also explore a wide range of university courses based on your APS. Whether you're interested in Engineering, Medicine, or Arts, the ChatBot has the perfect courses waiting for you. [Start Chatting](https://api.whatsapp.com/send/?phone=27795757645&text=Hi+there)
-- **Amile Amazulu Foundation**: A website dedicated to the non-profit organization. [Learn More](https://amileamazulufoundation.org.za)
 - **Revolutionary.co.za**: a platform that offers high-quality courses designed to help you achieve your goals, no matter where you are or what you're interested in. [Explore](https://revolutionary.co.za)
 - **News Demo Project**: A   news portal demonstration. [View Demo](https://news-project-demo.khaya.dev)
-- **Adventist Mingle**: A niche dating site for Adventist singles. [Find Love](https://adventistmingle.co.za)
 - **Student Registration System Demo**: A demo for a comprehensive student registration and learning Management system. [See Demo](https://lms-demo.khaya.dev)
 
 - 📫 How to reach me **khaya.developer@gmail.com**
