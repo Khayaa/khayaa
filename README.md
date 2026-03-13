@@ -23,15 +23,16 @@
 
 
 
- ## My Projects
+ ## Projects
 Here are some of the exciting projects I've worked on:
 
 - **Universityqualifications**: An innovative platform for students to calculate their APS scores and find suitable courses. [Visit Site](https://universityqualifications.co.za)
 - **University Qualifications Mobile App**: A mobile application for University Qualifications. [Get it on Google Play , Play store & App Gallery](https://universityqualifications.co.za/mobile-app)
 - **Taxi Maths Calculator Mobile App**:The smart and easy way to manage taxi fares, calculate change, and make sure everyone pays the right amount! . [Get it on Google Play , Play store & App Gallery](https://taximathscalculator.co.za/)
+- **Snap'D**: [Snap'd Plartform](https://snaptech.co.za/)
 - **Admission Advisor ChatBot**:A state-of-the-art ChatBot crafted to simplify the university admissions process in South Africa. Whether you need help with APS calculations or course requirements, this tool is equipped to provide answers from various South African universities. [Visit](https://chatbot.universityqualifications.co.za)
 - **University Qualifications Whatsapp ChatBot**: The ChatBot is not just about APS calculations. You can also explore a wide range of university courses based on your APS. Whether you're interested in Engineering, Medicine, or Arts, the ChatBot has the perfect courses waiting for you. [Start Chatting](https://api.whatsapp.com/send/?phone=27795757645&text=Hi+there)
-- **Snap'D**: [Snap'd Plartform](https://snaptech.co.za/)
+
 
 - 📫 How to reach me **khaya.developer@gmail.com**
 
