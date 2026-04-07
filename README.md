@@ -1,52 +1,77 @@
-
-
-![MasterHead](https://miro.medium.com/max/1400/1*zlmwtg3fog11YXcU_rvfWA.gif)
-<h1 align="center">Hi 👋, I'm Khaya Ngwenya</h1>
-<h5 align="center">⌨️ Fullstack developer with a passion for writing elegant code and solving real-world problems. 🚀 Industry experience building web and mobile apps using PHP, Laravel, JS, livewire, Alpine.js, Tailwind CSS & Bootstrap. Flutter fanboy too! 🏆 Proud recipient of the MTN App of the Year Award for Best Breakthrough Developer, a testament to my dedication to innovative solutions and excellence in technology. 💡 Recently built a UniversityQualifications app to help students calculate their APS scores and find the perfect course. 🔧 Proven experience building websites for non-profits, giving back to the community. 💻 When I'm not coding, you'll find me teaching eager learners how to code like a pro. 01001110 01100101 01110010 01100100 🤓</h5>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khayaa&label=Profile%20views&color=0e75b6&style=flat" alt="khayaa" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khayaa" alt="khayaa" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/mntimande_mk" target="blank"><img src="https://img.shields.io/twitter/follow/mntimande_mk?logo=twitter&style=for-the-badge" alt="mntimande_mk" /></a> </p>
-
-
-
-- 💻 I always love to learn new things.
-- 🌱 I’m currently learning **AI & Machine Learning**.
-- 👨‍💻 Best PHP Framework: **Laravel**.
-- 📱 Enthusiast in mobile app development with **Flutter**.
-- 💬 Ask me about **Fullstack development**
-- ⚡ Fun fact: **Livewire is 🔥!**
-- 💡 Eager to share knowledge about **coding and teaching programming skills**.
-- 🤖 Fun Binary: 01001110 01100101 01110010 01100100 (Nerd)
-
-
-
- ## Projects
-Here are some of the exciting projects I've worked on:
-
-- **Universityqualifications**: An innovative platform for students to calculate their APS scores and find suitable courses. [Visit Site](https://universityqualifications.co.za)
-- **University Qualifications Mobile App**: A mobile application for University Qualifications. [Get it on Google Play , Play store & App Gallery](https://universityqualifications.co.za/mobile-app)
-- **Taxi Maths Calculator Mobile App**:The smart and easy way to manage taxi fares, calculate change, and make sure everyone pays the right amount! . [Get it on Google Play , Play store & App Gallery](https://taximathscalculator.co.za/)
-- **Snap'D**: [Snap'd Plartform](https://snaptech.co.za/)
-- **Admission Advisor ChatBot**:A state-of-the-art ChatBot crafted to simplify the university admissions process in South Africa. Whether you need help with APS calculations or course requirements, this tool is equipped to provide answers from various South African universities. [Visit](https://chatbot.universityqualifications.co.za)
-- **University Qualifications Whatsapp ChatBot**: The ChatBot is not just about APS calculations. You can also explore a wide range of university courses based on your APS. Whether you're interested in Engineering, Medicine, or Arts, the ChatBot has the perfect courses waiting for you. [Start Chatting](https://api.whatsapp.com/send/?phone=27795757645&text=Hi+there)
-
-
-- 📫 How to reach me **khaya.developer@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mmntimande_mk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mmntimande_mk" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/khaya-ngwenya-309758226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khaya-ngwenya-309758226" height="30" width="40" /></a>
-<a href="https://fb.com/khayangwenyaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khayangwenyaa" height="30" width="40" /></a>
-<a href="https://instagram.com/mntimande_mk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.k__ngwenya" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://miro.medium.com/max/1400/1*zlmwtg3fog11YXcU_rvfWA.gif" alt="Coding animation banner" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://www.logo.wine/a/logo/Laravel/Laravel-Logo.wine.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khayaa&" alt="khayaa" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khayaa&show_icons=true&locale=en" alt="khayaa" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khayaa&show_icons=true&locale=en&layout=compact" alt="khayaa" /></p>
+<h1 align="center">Hi 👋, I'm Khaya Ngwenya</h1>
+<h3 align="center">Fullstack Developer | Laravel Specialist | Flutter Enthusiast</h3>
 
+<p align="center">
+  Passionate about building elegant, practical software that solves real-world problems.
+  <br />
+  MTN App of the Year Award winner (Best Breakthrough Developer) and active coding mentor.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=khayaa&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views for khayaa" />
+  <a href="https://twitter.com/mntimande_mk" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/twitter/follow/mntimande_mk?logo=twitter&style=flat" alt="Follow @mntimande_mk on Twitter" />
+  </a>
+</p>
+
+## 🚀 About Me
+- 💻 I love learning and shipping useful products.
+- 🌱 Currently exploring **AI & Machine Learning**.
+- 👨‍💻 Favourite PHP framework: **Laravel**.
+- 📱 Building mobile experiences with **Flutter**.
+- 💬 Ask me about **fullstack development**.
+- ⚡ Fun fact: **Livewire is 🔥**.
+- 🤖 Binary mood: `01001110 01100101 01110010 01100100` (Nerd).
+
+## 🧩 Featured Projects
+- **University Qualifications** — Platform for students to calculate APS scores and discover suitable courses.  
+  🔗 https://universityqualifications.co.za
+- **University Qualifications Mobile App** — Mobile companion app for University Qualifications users.  
+  🔗 https://universityqualifications.co.za/mobile-app
+- **Taxi Maths Calculator Mobile App** — Smart taxi fare and change calculator.  
+  🔗 https://taximathscalculator.co.za/
+- **Snap'd** — Social and digital engagement platform focused on interactive user experiences.  
+  🔗 https://snaptech.co.za/
+- **Admission Advisor Chatbot** — Chat assistant for APS and university admissions guidance.  
+  🔗 https://chatbot.universityqualifications.co.za
+- **University Qualifications WhatsApp Chatbot** — Course discovery and APS support via WhatsApp.  
+  🔗 https://api.whatsapp.com/send/?phone=27795757645&text=Hi+there
+- **GoMzansi** — Unifies South Africa's municipal bus systems into one simple app. Plan trips, check schedules, find stops, and navigate with confidence across Johannesburg, Pretoria, and beyond.  
+  🔗 https://gomzansi.co.za/
+
+## 🤝 Connect With Me
+- 📫 **Email:** khaya.developer@gmail.com
+- 🔗 **LinkedIn:** https://linkedin.com/in/khaya-ngwenya-309758226
+- 🐦 **Twitter/X:** https://twitter.com/mntimande_mk
+- 📸 **Instagram:** https://instagram.com/mntimande_mk
+- 👤 **Facebook:** https://fb.com/khayangwenyaa
+
+## 🛠️ Languages and Tools
+<p align="left">
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40" /></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40" /></a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" /></a>
+  <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40" /></a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" /></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /></a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://www.logo.wine/a/logo/Laravel/Laravel-Logo.wine.svg" alt="Laravel" width="40" height="40" /></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" /></a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" /></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" /></a>
+</p>
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khayaa" alt="GitHub streak stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khayaa&show_icons=true&locale=en" alt="GitHub stats card" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khayaa&show_icons=true&locale=en&layout=compact" alt="Top languages card" />
+</p>
