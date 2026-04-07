@@ -75,21 +75,23 @@ Cross-platform mobile application built with Flutter, providing real-time access
 
 ---
 
-### 🚖 Taxi Maths Calculator  
-Mobile-first tool designed for real-world taxi fare calculations and change management.  
+### 🚖 Taxi Maths Calculator Mobile App
+App designed for real-world taxi fare calculations and change management.  
 🔗 https://taximathscalculator.co.za/  
 
 ---
 
-### 💬 Admission Advisor Chatbot  
-Automated chatbot that assists students with course selection and admission guidance.  
+### 🚌 GoMzansi Mobile App  
+A platform that simplifies public transport navigation by unifying municipal bus systems into a single, user-friendly experience.  
+🔗 https://gomzansi.co.za/  
 
 ---
 
-### 📲 WhatsApp Chatbot Platform  
-Messaging-based system enabling users to interact with services through automated workflows and real-time responses.  
+### 🤖 QualiBot (WhatsApp Chatbot)  
+Messaging-based system that allows users to calculate APS scores and explore university opportunities directly via WhatsApp.  
+🔗 https://api.whatsapp.com/send/?phone=27795757645&text=Hi+there  
 
----
+
 
 ## 📊 GitHub Stats
 
