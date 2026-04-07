@@ -13,7 +13,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=khayaa&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views for khayaa" />
-  <a href="https://twitter.com/mntimande_mk">
+  <a href="https://twitter.com/mntimande_mk" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/twitter/follow/mntimande_mk?logo=twitter&style=flat" alt="Follow @mntimande_mk on Twitter" />
   </a>
 </p>
@@ -36,11 +36,11 @@
   🔗 https://taximathscalculator.co.za/
 - **Snap'd** — Social and digital engagement platform focused on interactive user experiences.  
   🔗 https://snaptech.co.za/
-- **Admission Advisor ChatBot** — Chat assistant for APS and university admissions guidance.  
+- **Admission Advisor Chatbot** — Chat assistant for APS and university admissions guidance.  
   🔗 https://chatbot.universityqualifications.co.za
 - **University Qualifications WhatsApp Chatbot** — Course discovery and APS support via WhatsApp.  
   🔗 https://api.whatsapp.com/send/?phone=27795757645&text=Hi+there
-- **Gomzansi** — South African digital platform showcasing local opportunities, services, and community-focused content.  
+- **GomZansi** — South African digital platform showcasing local opportunities, services, and community-focused content.  
   🔗 https://gomzansi.co.za/
 
 ## 🤝 Connect With Me
