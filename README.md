@@ -40,7 +40,7 @@
   🔗 https://chatbot.universityqualifications.co.za
 - **University Qualifications WhatsApp Chatbot** — Course discovery and APS support via WhatsApp.  
   🔗 https://api.whatsapp.com/send/?phone=27795757645&text=Hi+there
-- **GomZansi** — South African digital platform showcasing local opportunities, services, and community-focused content.  
+- **Gomzansi** — South African digital platform showcasing local opportunities, services, and community-focused content.  
   🔗 https://gomzansi.co.za/
 
 ## 🤝 Connect With Me
