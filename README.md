@@ -172,15 +172,15 @@ const khayaNgwenya = {
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khayaa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khayaa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   
   <br/>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=khayaa&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Khayaa&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Stats" />
   
   <br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khayaa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Khayaa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   
 </div>
 
@@ -203,6 +203,6 @@ const khayaNgwenya = {
   
   ###  Building systems that solve real-world problems
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=khayaa&style=for-the-badge&color=blueviolet)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Khayaa&style=for-the-badge&color=blueviolet)
   
 </div>
