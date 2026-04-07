@@ -1,77 +1,121 @@
 <p align="center">
-  <img src="https://miro.medium.com/max/1400/1*zlmwtg3fog11YXcU_rvfWA.gif" alt="Coding animation banner" width="100%" />
+  <img src="https://miro.medium.com/max/1400/1*zlmwtg3fog11YXcU_rvfWA.gif" alt="Coding banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Khaya Ngwenya</h1>
-<h3 align="center">Fullstack Developer | Laravel Specialist | Flutter Enthusiast</h3>
+<h3 align="center">Full-Stack Developer | Laravel & Flutter | Scalable Systems & Integrations</h3>
 
 <p align="center">
-  Passionate about building elegant, practical software that solves real-world problems.
-  <br />
-  MTN App of the Year Award winner (Best Breakthrough Developer) and active coding mentor.
+  Building production-ready applications, APIs, and automation systems.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khayaa&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views for khayaa" />
-  <a href="https://twitter.com/mntimande_mk" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/twitter/follow/mntimande_mk?logo=twitter&style=flat" alt="Follow @mntimande_mk on Twitter" />
-  </a>
-</p>
+---
 
 ## 🚀 About Me
-- 💻 I love learning and shipping useful products.
-- 🌱 Currently exploring **AI & Machine Learning**.
-- 👨‍💻 Favourite PHP framework: **Laravel**.
-- 📱 Building mobile experiences with **Flutter**.
-- 💬 Ask me about **fullstack development**.
-- ⚡ Fun fact: **Livewire is 🔥**.
-- 🤖 Binary mood: `01001110 01100101 01110010 01100100` (Nerd).
 
-## 🧩 Featured Projects
-- **University Qualifications** — Platform for students to calculate APS scores and discover suitable courses.  
-  🔗 https://universityqualifications.co.za
-- **University Qualifications Mobile App** — Mobile companion app for University Qualifications users.  
-  🔗 https://universityqualifications.co.za/mobile-app
-- **Taxi Maths Calculator Mobile App** — Smart taxi fare and change calculator.  
-  🔗 https://taximathscalculator.co.za/
-- **Snap'd** — Social and digital engagement platform focused on interactive user experiences.  
-  🔗 https://snaptech.co.za/
-- **Admission Advisor Chatbot** — Chat assistant for APS and university admissions guidance.  
-  🔗 https://chatbot.universityqualifications.co.za
-- **University Qualifications WhatsApp Chatbot** — Course discovery and APS support via WhatsApp.  
-  🔗 https://api.whatsapp.com/send/?phone=27795757645&text=Hi+there
-- **GoMzansi** — Unifies South Africa's municipal bus systems into one simple app. Plan trips, check schedules, find stops, and navigate with confidence across Johannesburg, Pretoria, and beyond.  
-  🔗 https://gomzansi.co.za/
+I’m a Full-Stack Developer specializing in building scalable web and mobile applications using **Laravel (PHP)** and **Flutter (Dart)**.
 
-## 🤝 Connect With Me
-- 📫 **Email:** khaya.developer@gmail.com
-- 🔗 **LinkedIn:** https://linkedin.com/in/khaya-ngwenya-309758226
-- 🐦 **Twitter/X:** https://twitter.com/mntimande_mk
-- 📸 **Instagram:** https://instagram.com/mntimande_mk
-- 👤 **Facebook:** https://fb.com/khayangwenyaa
+I design and develop end-to-end systems — from backend APIs and real-time architectures to mobile apps and production deployments. My work focuses on creating reliable, efficient, and maintainable solutions that integrate seamlessly with third-party platforms.
 
-## 🛠️ Languages and Tools
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40" /></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40" /></a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" /></a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40" /></a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /></a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://www.logo.wine/a/logo/Laravel/Laravel-Logo.wine.svg" alt="Laravel" width="40" height="40" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" /></a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" /></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" /></a>
-</p>
+- ⚙️ Backend: Laravel, REST APIs, Queues (Redis/Horizon)
+- 📡 Real-time: WebSockets (Laravel Reverb)
+- 📱 Mobile: Flutter (iOS, Android, Web)
+- 🔗 Integrations: APIs, automation systems, messaging platforms
+- ☁️ DevOps: Laravel Forge, VPS, CI/CD, Cloudflare
+
+---
+
+## 🧩 What I Do
+
+- Build scalable backend systems and APIs  
+- Develop cross-platform mobile applications  
+- Design real-time and event-driven architectures  
+- Integrate third-party platforms and services  
+- Optimize performance, security, and database systems  
+- Manage deployments and production infrastructure  
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend**
+- PHP (Laravel)
+- MySQL
+- REST APIs
+
+**Frontend**
+- JavaScript
+- Livewire
+- Alpine.js
+- Tailwind CSS
+- Bootstrap
+
+**Mobile**
+- Flutter (Dart)
+
+**Infrastructure & Tools**
+- Git & GitHub
+- Laravel Forge
+- Redis
+- Cloudflare
+
+---
+
+## 🚀 Featured Projects
+
+### 🎓 University Qualifications  
+Platform that helps students calculate APS scores and discover qualifying university programmes.  
+🔗 https://universityqualifications.co.za  
+
+---
+
+### 📱 University Qualifications Mobile App  
+Cross-platform mobile application built with Flutter, providing real-time access to course requirements and APS tools.  
+🔗 https://universityqualifications.co.za/mobile-app  
+
+---
+
+### 🚖 Taxi Maths Calculator  
+Mobile-first tool designed for real-world taxi fare calculations and change management.  
+🔗 https://taximathscalculator.co.za/  
+
+---
+
+### 💬 Admission Advisor Chatbot  
+Automated chatbot that assists students with course selection and admission guidance.  
+
+---
+
+### 📲 WhatsApp Chatbot Platform  
+Messaging-based system enabling users to interact with services through automated workflows and real-time responses.  
+
+---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khayaa" alt="GitHub streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khayaa" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khayaa&show_icons=true&locale=en" alt="GitHub stats card" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khayaa&show_icons=true&locale=en" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khayaa&show_icons=true&locale=en&layout=compact" alt="Top languages card" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khayaa&layout=compact" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+- 📫 Email: khaya.developer@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/khaya-ngwenya-309758226  
+- 🐦 Twitter/X: https://twitter.com/mntimande_mk  
+- 📸 Instagram: https://instagram.com/mntimande_mk  
+
+---
+
+<p align="center">
+  ⚡ Building systems that solve real-world problems.
 </p>
