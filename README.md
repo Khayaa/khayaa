@@ -172,15 +172,15 @@ const khayaNgwenya = {
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khayaa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Khayaa&theme=tokyonight&hide_border=true)](https://github.com/Khayaa)
   
   <br/>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Khayaa&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Stats" />
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khayaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/Khayaa)
   
   <br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Khayaa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khayaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/Khayaa)
   
 </div>
 
