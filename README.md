@@ -34,11 +34,11 @@
   🔗 https://universityqualifications.co.za/mobile-app
 - **Taxi Maths Calculator Mobile App** — Smart taxi fare and change calculator.  
   🔗 https://taximathscalculator.co.za/
-- **Snap'D** — Social and digital engagement platform focused on interactive user experiences.  
+- **Snap'd** — Social and digital engagement platform focused on interactive user experiences.  
   🔗 https://snaptech.co.za/
 - **Admission Advisor ChatBot** — Chat assistant for APS and university admissions guidance.  
   🔗 https://chatbot.universityqualifications.co.za
-- **University Qualifications WhatsApp ChatBot** — Course discovery and APS support via WhatsApp.  
+- **University Qualifications WhatsApp Chatbot** — Course discovery and APS support via WhatsApp.  
   🔗 https://api.whatsapp.com/send/?phone=27795757645&text=Hi+there
 - **Gomzansi** — South African digital platform showcasing local opportunities, services, and community-focused content.  
   🔗 https://gomzansi.co.za/
